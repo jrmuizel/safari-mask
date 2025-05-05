@@ -1,18 +1,18 @@
 {
   "manifest_version": 2,
-  "name": "__MSG_extensionName__",
-  "description": "__MSG_extensionDescription__",
+  "name": "Safari Mask",
+  "description": "Makes Firefox wear a mask to look like Safari.",
   "author": "Dennis Schubert",
-  "homepage_url": "https://github.com/denschub/chrome-mask",
+  "homepage_url": "https://github.com/denschub/Safari-mask",
   "version": "5.0.1",
   "default_locale": "en",
   "browser_specific_settings": {
     "gecko": {
-      "id": "chrome-mask@overengineer.dev",
+      "id": "safari-mask@overengineer.dev",
       "strict_min_version": "115.0"
     },
     "gecko_android": {
-      "id": "chrome-mask@overengineer.dev",
+      "id": "safari-mask@overengineer.dev",
       "strict_min_version": "115.0"
     }
   },

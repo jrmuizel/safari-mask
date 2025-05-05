@@ -1,7 +1,7 @@
 {
-  "name": "chrome-mask",
+  "name": "safari-mask",
   "version": "5.0.1",
-  "description": "Makes Firefox wear a mask to look like Chrome.",
+  "description": "Makes Firefox wear a mask to look like Safari.",
   "author": "Dennis Schubert <mail@dennis-schubert.de>",
   "license": "MIT",
   "private": true,

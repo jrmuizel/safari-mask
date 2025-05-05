@@ -1,18 +1,18 @@
 {
   "extensionName": {
-    "message": "Chrome Mask"
+    "message": "Safari Mask"
   },
 
   "extensionDescription": {
-    "message": "Makes Firefox wear a mask to look like Chrome to websites that otherwise won't work."
+    "message": "Makes Firefox wear a mask to look like Safari to websites that otherwise won't work."
   },
 
   "breakageWarning": {
-    "message": "While Chrome Mask may help if you see a \"Browser unsupported\" message, it could cause unexpected breakage on some sites."
+    "message": "While Safari Mask may help if you see a \"Browser unsupported\" message, it could cause unexpected breakage on some sites."
   },
 
   "reportBrokenSite": {
-    "message": "If you find a site which works better with Chrome Mask enabled, please report it $IN_PRODUCT_REPORTER$ or $WEBCOMPAT$. Thank you! &hearts;",
+    "message": "If you find a site which works better with Safari Mask enabled, please report it $IN_PRODUCT_REPORTER$ or $WEBCOMPAT$. Thank you! &hearts;",
     "placeholders": {
       "IN_PRODUCT_REPORTER": {
         "content": "$1"
@@ -32,7 +32,7 @@
   },
 
   "maskStatusOn": {
-    "message": "The mask is on! I pretend to be Chrome on this site."
+    "message": "The mask is on! I pretend to be Safari on this site."
   },
 
   "maskStatusOff": {
@@ -48,7 +48,7 @@
   },
 
   "manageSitesFallback": {
-    "message": "To add or remove sites, please open the Extension Manager, select Chrome Mask, and hit Settings."
+    "message": "To add or remove sites, please open the Extension Manager, select Safari Mask, and hit Settings."
   },
 
   "addSiteTitle": {

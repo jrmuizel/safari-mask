@@ -85,7 +85,7 @@ hr {
       }
 
       ~ div::after {
-        background-image: url(assets/toggler-icon-chrome.png);
+        background-image: url(assets/toggler-icon-safari.svg);
         transform: translateX(55px);
       }
     }
